@@ -21,5 +21,8 @@
   "homepage": "https://github.com/tiagorg/uscis-checker#readme",
   "dependencies": {
     "puppeteer": "^1.0.0"
+  },
+  "bin": {
+    "uscis-checker": "./index.js"
   }
 }
