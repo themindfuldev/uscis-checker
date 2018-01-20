@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tiagorg/uscis-checker/issues"
   },
-  "homepage": "https://github.com/tiagorg/uscis-checker#readme"
+  "homepage": "https://github.com/tiagorg/uscis-checker#readme",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
 }
